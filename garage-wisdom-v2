@@ -147,6 +147,7 @@
             align-items:center;
             gap:0.75rem;
             text-transform:uppercase;
+            cursor:pointer;
         }
         
         .logo-icon{
@@ -177,6 +178,7 @@
             opacity:0.8;
             transition:all 0.3s;
             position:relative;
+            cursor:pointer;
         }
         
         .nav-links a:hover{opacity:1;color:var(--orange)}
@@ -702,6 +704,4 @@
         }
         
         .back-btn{
-            display:inline-flex;
-            align-items:center;
-     
+            di
